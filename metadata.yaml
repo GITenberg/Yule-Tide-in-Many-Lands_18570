@@ -1,0 +1,38 @@
+_repo: Yule-Tide-in-Many-Lands_18570
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bridgman, L. J. (Lewis Jesse)
+    aliases:
+    - Bridgeman, Lewis Jesse
+    - Bridgman, Lewis Jesse
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '8122'
+    url: http://www.gutenberg.org/2009/agents/8122
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Urann, Clara A.
+    gutenberg_agent_id: '8121'
+    url: http://www.gutenberg.org/2009/agents/8121
+  - agent_name: Pringle, Mary Poague
+    gutenberg_agent_id: '8120'
+    url: http://www.gutenberg.org/2009/agents/8120
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2006-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Christmas'
+title: Yule-Tide in Many Lands
+url: http://www.gutenberg.org/ebooks/18570
